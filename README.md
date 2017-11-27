@@ -9,7 +9,7 @@ If you are NERD who needs customize everything and come up with new awesome colo
 # Where to start?
 
 ##### First of all you will need:
-1. imageMagick
+1. [imageMagick](https://www.imagemagick.org/script/download.php)
 2. [ThemeEngine](https://github.com/alexzielenski/ThemeEngine)
 3. Brain
 4. Read this readme carefully.
