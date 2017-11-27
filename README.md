@@ -57,6 +57,7 @@ Video [here](https://instagram.com/p/Bbm8WP5BU9y/) and yes, I share my IG video.
 
 ##### When
 a) Using this awesome tool:  https://github.com/alexzielenski/ThemeEngine I got to inspect the png files and extract them, change them with imageMagick and then 
+
 b) With the other one: https://github.com/insidegui/AssetCatalogTinkerer I got to export the PNG files to change. (To be continued with this way, seems like it's compiling those files somehow not the way it needs to be...)
 
 ##### Then 
