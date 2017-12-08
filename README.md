@@ -1,5 +1,6 @@
 # macOS-Appearance
 
+reference: [AQUA-LICK](https://github.com/ExactProbability/AQUA-LICK-GIT)
 # What is this?
 This repository has been made for the sake of anyone wanting to customize their macOS theme to the max. 
 
